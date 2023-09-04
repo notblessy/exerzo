@@ -1,0 +1,22 @@
+{
+  "d": {
+    "sl": {
+      "g": [
+        {
+          "i": "66wylynyytdd-y7oozp9jaw9d",
+          "T": "Question Group 1",
+          "s": {
+            "rs": 25,
+            "st": "randomSelection",
+            "up": true,
+            "ps": {
+              "u": "percents",
+              "v": 80
+            }
+          },
+          "S": []
+        }
+      ]
+    }
+  }
+}

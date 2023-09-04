@@ -1,0 +1,3387 @@
+{
+  "d": {
+    "sl": {
+      "g": [
+        {
+          "i": "66wylynyytdd-y7oozp9jaw9d",
+          "T": "Question Group 1",
+          "s": {
+            "rs": 25,
+            "st": "randomSelection",
+            "up": true,
+            "ps": {
+              "u": "percents",
+              "v": 80
+            }
+          },
+          "S": []
+        },
+        {
+          "i": "sm370s2yz6wz-3e7hn99vzx1t",
+          "T": "Imported Questions",
+          "s": {
+            "rs": -1,
+            "st": "allQuestions",
+            "up": true,
+            "ps": {
+              "u": "percents",
+              "v": 80
+            }
+          },
+          "S": [
+            {
+              "i": "m5ch0uv69uwf-a9tobnbjcvsp",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Apa itu performance management system?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Apa itu performance management system?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "9rcyhsp3kktb-p5yrj98shcew",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performa manajemen adalah ​ system ​ yang dirancang untuk mengelola pencapaian kinerja karyawan agar meningkatkan kinerja dan stategi bisnis yang maksimal</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performa manajemen adalah  system  yang dirancang untuk mengelola pencapaian kinerja karyawan agar meningkatkan kinerja dan stategi bisnis yang maksimal"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "dgpqkn1l3vp6-1srqrpoih2gn",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performa manajemen adalah ​ system ​ yang dirancang untuk mengelola pencapaian kinerja Tim agar meningkatkan kinerja dan stategi bisnis yang minimal</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performa manajemen adalah  system  yang dirancang untuk mengelola pencapaian kinerja Tim agar meningkatkan kinerja dan stategi bisnis yang minimal"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "mxw57v8h1gyq-cg0g8l9gh7y",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performa manajemen adalah ​ system ​ yang dirancang untuk mengelola pencapaian kinerja Manajemen agar meningkatkan kinerja dan stategi bisnis yang sesuai</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performa manajemen adalah  system  yang dirancang untuk mengelola pencapaian kinerja Manajemen agar meningkatkan kinerja dan stategi bisnis yang sesuai"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "c9lkgz43t5yx-7b4gosv2vayz",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performa manajemen adalah ​ system ​ yang dirancang untuk mengelola pencapaian kinerja Proses agar meningkatkan kinerja dan stategi bisnis yang maksimal</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performa manajemen adalah  system  yang dirancang untuk mengelola pencapaian kinerja Proses agar meningkatkan kinerja dan stategi bisnis yang maksimal"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "p8cso6yn5vt-ux5ipan6517j",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Berikut ini merupakan tahap dalam performance management system ?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Berikut ini merupakan tahap dalam performance management system ?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "kas4ssjsck5c-p4cawbv403mh",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance planning, performance review, Performance sytem</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance planning, performance review, Performance sytem"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "pop5ys6u1abe-bd148g4jac0",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance planning, performance review, Performance Appraisal</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance planning, performance review, Performance Appraisal"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "grlbsbz3f1hw-cm4vgml1x020",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance System, performance review, Performance appraisal</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance System, performance review, Performance appraisal"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "73uu5h5wn8uf-f54jbpv346m7",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance team, performance review, Performance sytem</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance team, performance review, Performance sytem"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "mxdr71c2psa8-45d5oznr35ha",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Element penting dalam performance management system adalah…</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Element penting dalam performance management system adalah…"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "6uyb1casc1up-j5voa4lyc3jz",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Objektif</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Objektif"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "74uy7xfu4a6a-4t26jzx58cgw",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Kompetensi</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Kompetensi"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "9ybe705jnz5u-y7ppfmgeutq4",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Objektif dan Kompetensi</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Objektif dan Kompetensi"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "aoli0nnvieye-kis6tpilcsqk",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Objektif, Kompetensi dan manajemen</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Objektif, Kompetensi dan manajemen"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "9jbqs27v5opp-pr8rogdl9d1g",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Rencana yang akan kita lakukan untuk mencapai bisnis objektif yang ingin dicapai terdiri dari Indikator kinerja individu, Indikator kinerja departemen atau division yang diverifikasi oleh setiap atasan dan direktorat hal ini disebut ?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Rencana yang akan kita lakukan untuk mencapai bisnis objektif yang ingin dicapai terdiri dari Indikator kinerja individu, Indikator kinerja departemen atau division yang diverifikasi oleh setiap atasan dan direktorat hal ini disebut ?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "8i96rrmb1yoh-a8y5hk3tda8n",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance System</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance System"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "oo24uel1090b-rfao73sshxx4",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance Planning</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance Planning"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "xqkdzh9bnn4-noevy9xk2sbl",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Performance Review</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Performance Review"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "5doncsindma3-2vkrshe3om22",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Semua Benar</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Semua Benar"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "71cpxaulycry-kg9666jqungi",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Gap yang terjadi saat pencapaian target dapat diisi dengan bentuk pengembangan?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Gap yang terjadi saat pencapaian target dapat diisi dengan bentuk pengembangan?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "qbd4db3osoyv-f9ez80btvy1c",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Penambahan kerja</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Penambahan kerja"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "jtvosky6d2xc-3r4n79wfguhh",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Belajar dari mentor</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Belajar dari mentor"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "bwwyh1xlv1ci-utt0yrgnqbl",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Mengikuti pelatihan</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Mengikuti pelatihan"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "u5073cadkt4w-rsqrdigh2i49",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Semua jawaban benar</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Semua jawaban benar"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "hzj9641npumt-nfqta4f49752",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Proses yang ditinjau dalam Performance review atau manajemen peninjauan adalah?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Proses yang ditinjau dalam Performance review atau manajemen peninjauan adalah?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "c80rcmu8adur-rqq2h3oqhye",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Hasil kerja dan hasil proses</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Hasil kerja dan hasil proses"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "e43cmtr0r6da-9ed5yqnqxcdf",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Proses kerja dan proses kinerja</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Proses kerja dan proses kinerja"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "cnokocm0rknt-y6x72t3n5uby",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Proses Kerja dan Hasil Kerja</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Proses Kerja dan Hasil Kerja"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "6oypy42mrvi-24ayji9gvn17",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Semua Jawaban benar</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Semua Jawaban benar"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "7fnrmqfzvgkx-7qh5pbz8affo",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Hasil dari pengisian atau self assesment perlu diverifikasi oleh?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Hasil dari pengisian atau self assesment perlu diverifikasi oleh?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "j5niu2j5stdg-anrch5ovym9k",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Superior</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Superior"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "3inbiaicm49e-7poowjdc9oej",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">HRD</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "HRD"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "3i2pn2750k1g-nb9bce7oaxc3",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">HRBP</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "HRBP"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "mk1i15rfxi3i-vgm4rgoqpnmr",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Subordinate</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Subordinate"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "nighq6z9t4e6-ldke0zppd94c",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Dalam membuat performance planning, sebuah objektif perlu dibuat dengan?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Dalam membuat performance planning, sebuah objektif perlu dibuat dengan?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "7xwl8e9cyi5z-j4hsbe7jd4n1",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">SMART</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "SMART"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "urnnf6uc8hpi-gkz4d6h5fb4y",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">PICA</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "PICA"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "src6j13sjoy4-n30zuda3h7ed",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Diagram Fishbone</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Diagram Fishbone"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "dwogbln0kef0-xd0n4kuyfr9t",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Kaizen</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Kaizen"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "ljvhrhab6fh8-5onzoa3xuomt",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">\nPenilaian yang dipengaruhi sikap positif dan negative dari karyawan yang sering ditemui, disebut ?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "\nPenilaian yang dipengaruhi sikap positif dan negative dari karyawan yang sering ditemui, disebut ?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "qhjbxack6hfi-yhgttgy2vokg",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Primary</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Primary"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "n16774qz2zai-tg87rqrg532h",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Horn</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Horn"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "6byn175uh2pz-3lb8n04axqj6",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Strictness</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Strictness"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "lxyw5fxrbb3i-878s9kexgujk",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Recency</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Recency"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            },
+            {
+              "i": "kxscsmtk94e2-nbydieu0hgmx",
+              "tp": "MultipleChoice",
+              "D": {
+                "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#4d4d4d\"><span style=\"text-decoration:none\"><span style=\"font-size:18px\"><span style=\"font-family:fnt1_20430,fnt2_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Penilaian yang diberikan dengan nilai terendah dibandingkan yang seharusnya karena beberapa kesan yang tidak disukai, disebut ?</span></span></span></span></span></span></p>",
+                "r": [],
+                "d": [
+                  "Penilaian yang diberikan dengan nilai terendah dibandingkan yang seharusnya karena beberapa kesan yang tidak disukai, disebut ?"
+                ],
+                "t": {
+                  "tf": {
+                    "f": "Open Sans Semibold",
+                    "s": 18,
+                    "c": 5066061,
+                    "b": false,
+                    "i": false,
+                    "u": false
+                  },
+                  "pf": {
+                    "t": "p",
+                    "a": "left"
+                  }
+                }
+              },
+              "v": true,
+              "C": {
+                "chs": [
+                  {
+                    "i": "ynr0jtmnyn9i-hce5vr8mqa9",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Strictness</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Strictness"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "1aklettemkm3-rswngbd0d144",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Primary</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Primary"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  },
+                  {
+                    "i": "6yb3nn63n82q-gp67foosbjqa",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Horn</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Horn"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": true
+                  },
+                  {
+                    "i": "qsram37ktnj2-ckzakqv0phxq",
+                    "t": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Halo</span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Halo"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    },
+                    "c": false
+                  }
+                ]
+              },
+              "s": {
+                "ee": true,
+                "e": {
+                  "t": "byQuestion",
+                  "pt": 10,
+                  "p": 0
+                },
+                "t": {
+                  "e": false,
+                  "v": 60
+                },
+                "sh": true,
+                "a": 1,
+                "cc": 1,
+                "B": {
+                  "t": "byQuestion"
+                },
+                "F": {
+                  "c": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Selamat Jawaban Benar!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Selamat Jawaban Benar!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "i": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Jawaban anda kurang tepat !</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Jawaban anda kurang tepat !"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "at": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You did not choose the correct response. Please try again.</span></span></span></span></span></span></span></p><p style=\"text-align:left;\"><span style=\"font-size:16px;font-family:fnt0_20430;\">​</span></p><p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">You have %ANSWER_ATTEMPTS% attempts.</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "You did not choose the correct response. Please try again.\n\nYou have %ANSWER_ATTEMPTS% attempts."
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "a": {
+                    "v": {
+                      "h": "<p style=\"text-align:left;\"><span data-format-tag-id=\"color\" style=\"color:#000000\"><span style=\"text-decoration:none\"><span style=\"text-decoration:none\"><span style=\"font-size:16px\"><span style=\"font-family:fnt0_20430\"><span style=\"font-weight:normal\"><span style=\"font-style:normal\">Thank you for your answer!</span></span></span></span></span></span></span></p>",
+                      "r": [],
+                      "d": [
+                        "Thank you for your answer!"
+                      ],
+                      "t": {
+                        "tf": {
+                          "f": "Open Sans",
+                          "s": 16,
+                          "c": 0,
+                          "b": false,
+                          "i": false,
+                          "u": false,
+                          "st": false
+                        },
+                        "pf": {
+                          "t": "p",
+                          "a": "left"
+                        }
+                      }
+                    }
+                  },
+                  "gt": "byQuestion",
+                  "st": "none"
+                }
+              },
+              "a": {
+                "l": "default",
+                "L": false,
+                "o": [
+                  {
+                    "tp": "shape",
+                    "I": "direction",
+                    "k": false,
+                    "s": "textBox",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "resizeShapeToFitText",
+                        "v": "middle",
+                        "w": true,
+                        "l": 14,
+                        "r": 16,
+                        "t": 9,
+                        "b": 12
+                      }
+                    },
+                    "b": 0.3
+                  },
+                  {
+                    "tp": "shape",
+                    "I": "content",
+                    "k": false,
+                    "s": "rectangle",
+                    "S": {
+                      "b": {
+                        "f": "none"
+                      },
+                      "s": {
+                        "t": "none",
+                        "s": 1,
+                        "d": "",
+                        "c": "butt",
+                        "j": "miter"
+                      },
+                      "a": {
+                        "t": "",
+                        "a": true
+                      },
+                      "t": {
+                        "a": "doNotAutofit",
+                        "v": "middle",
+                        "w": true,
+                        "l": 10,
+                        "r": 10,
+                        "t": 5,
+                        "b": 5
+                      }
+                    },
+                    "b": 0.3
+                  }
+                ],
+                "B": [],
+                "O": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "i": {
+                  "o": "{\"mediaPlaceholder\":1,\"slidePicture\":1,\"slideVideo\":1,\"slideAudio\":1,\"image\":1,\"video\":1,\"iconPlaceholder\":1,\"shape\":1,\"line\":1}",
+                  "s": "{\"rectangle\":1,\"roundedRectangle\":1,\"ellipse\":1,\"textBox\":1,\"triangle\":1,\"freeform\":1}"
+                },
+                "s": "Default"
+              },
+              "an": {
+                "t": "none",
+                "d": "fromBottom",
+                "m": "byItems",
+                "du": 1,
+                "de": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
